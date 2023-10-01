@@ -17,16 +17,16 @@
   - [x] Create a bar plot to display the number of shows/movies added per month. [Intermediate, Seaborn]
 
 - [ ] Ratings Analysis:
-  - [ ] Create a count plot to visualize the distribution of ratings. [Intermediate, Seaborn]
+  - [x] Create a count plot to visualize the distribution of ratings. [Intermediate, Seaborn]
   - [ ] Plot a bar chart to show the highest-rated shows/movies. [Intermediate, Matplotlib]
 
 - [ ] Duration Analysis:
-  - [ ] Create a histogram or box plot to display the distribution of content duration. [Advanced, Matplotlib, Seaborn]
+  - [x] Create a histogram or box plot to display the distribution of content duration. [Advanced, Matplotlib, Seaborn]
   - [ ] Explore the average duration of shows/movies using a violin plot. [Advanced, Seaborn]
 
 - [ ] Description Analysis:
-  - [ ] Perform text analysis and create a word cloud for show/movie descriptions. [Advanced, WordCloud, Matplotlib]
-  - [ ] Analyze sentiment in descriptions and visualize using a stacked bar chart. [Advanced, Seaborn]
+  - [x] Perform text analysis and create a word cloud for show/movie descriptions. [Advanced, WordCloud, Matplotlib]
+  - [x] Analyze sentiment in descriptions and visualize using a stacked bar chart. [Advanced, Seaborn]
 
 - [ ] Combination Analysis:
   - [ ] Create a heatmap to visualize combinations of genres. [Advanced, Seaborn]
