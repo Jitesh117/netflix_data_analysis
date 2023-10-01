@@ -14,7 +14,7 @@
 
 - [ ] Time Analysis:
   - [ ] Plot a line chart to show the trend of content added over the years. [Intermediate, Matplotlib]
-  - [ ] Create a bar plot to display the number of shows/movies added per month. [Intermediate, Seaborn]
+  - [x] Create a bar plot to display the number of shows/movies added per month. [Intermediate, Seaborn]
 
 - [ ] Ratings Analysis:
   - [ ] Create a count plot to visualize the distribution of ratings. [Intermediate, Seaborn]
